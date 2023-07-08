@@ -2,4 +2,4 @@
 
 
 
-Esse é meu currícuo em HTMl e utilizei algumas práticas de css.
+This is my resume in HTML and I used some css practices.
